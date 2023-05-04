@@ -1,9 +1,9 @@
+//Alert message 
 function showAlert() {
      alert("Our Site is under construction. please come back soon!");
    }
 
-
-
+//Hamburger icon funtion 
 const btn = document.getElementById('menu-btn')
 const nav = document.getElementById('menu')
 
